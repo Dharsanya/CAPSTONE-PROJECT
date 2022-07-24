@@ -1,3 +1,3 @@
-# CAPSTONE-PROJECT---1
+# CAPSTONE-PROJECT
 
 Bike Sharing Demand Prediction
